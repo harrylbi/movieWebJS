@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white; /* Mengubah warna teks agar terlihat di latar belakang hitam */
+  }
+  
+  .navbar {
+    background-color: #333; /* Mengubah warna latar belakang navbar */
+  }
+  
+  .card {
+    background-color: #444; /* Mengubah warna latar belakang kartu film */
+    color: white; /* Mengubah warna teks kartu film */
+  }
+  
+  .modal-content {
+    background-color: #333; /* Mengubah warna latar belakang modal */
+    color: white; /* Mengubah warna teks modal */
+  }
+  
